@@ -4,4 +4,4 @@ applications:
   - discovery-service
   - conversation-service
   path: build/libs/conversation-with-discovery-0.1-SNAPSHOT.war
-  memory:1G
+  memory: 1G
